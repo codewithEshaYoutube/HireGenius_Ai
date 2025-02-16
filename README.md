@@ -85,8 +85,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For queries and collaborations:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **Email**: [tariqeesha@gmail.com](mailto:tariqeesha@gmail.com)
+- **GitHub**: [Your GitHub Profile]((https://github.com/codewithEshaYoutube/)
 
 ---
 🚀 _HireGenius AI - Making job applications effortless with AI!_
